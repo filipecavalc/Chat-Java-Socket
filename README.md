@@ -1,2 +1,2 @@
-# Chat-Java-Socket
-Trabalho desenvolvidos para a matéria de redes de computadores.
+# Chat Java Socket
+Trabalho desenvolvido para a matéria de redes de computadores.
