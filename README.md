@@ -1,4 +1,6 @@
 # Chat Java Socket
+![JAVA](https://img.shields.io/badge/JAVA-100%25-blue.svg)
+![SOCKETS](https://img.shields.io/badge/JAVA--SOCKET-Biblioteca-blue.svg)
 Trabalho desenvolvido para a matéria de redes de computadores com as seguintes funcionalidades: <br/>
 * Cliente
     * Conetar com o servidor
